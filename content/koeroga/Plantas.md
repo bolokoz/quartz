@@ -3,6 +3,8 @@ Lembrar de seguir os [[Princípios e escopos]]
 
 ## Tipo 1
 
+^cb7635
+
 
 
 
