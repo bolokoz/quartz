@@ -32,3 +32,15 @@ Módulos com banheiro e cozinha (wet cell) individuais:
 
 
 ## Móveis e armários
+
+# Banheiro
+![[Módulos-1.png]]
+
+
+
+
+## Escada
+![[Módulos-2.png]]
+
+## Exemplo 1
+![[hotelexemplo.png]]![[hotelexemplo-1.png]]![[hotelexemplo-2.png]]
