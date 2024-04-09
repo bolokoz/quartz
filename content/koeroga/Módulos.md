@@ -44,3 +44,7 @@ Módulos com banheiro e cozinha (wet cell) individuais:
 
 ## Exemplo 1
 ![[hotelexemplo.png]]![[hotelexemplo-1.png]]![[hotelexemplo-2.png]]
+
+## Exemplo 2
+
+![[banheiro2.png]]
