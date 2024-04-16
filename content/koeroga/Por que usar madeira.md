@@ -7,6 +7,8 @@
 7. Controle de qualidade - tudo verificado em fábrica
 8. Investimento seguro - custos previsíveis e baixo risco (chuva, funcionários, materais, cronograma)
 
+![[Por que usar madeira-15.png]]
+
 ## Hoteis, apartamentos e centro para idosos
 
 ![[Por que usar madeira.png]]![[Por que usar madeira-1.png]]![[Por que usar madeira-2.png]]![[Por que usar madeira-3.png]]![[Por que usar madeira-4.png]]
