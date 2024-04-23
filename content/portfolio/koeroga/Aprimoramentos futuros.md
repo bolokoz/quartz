@@ -1,1 +1,2 @@
-- Considerar projeto 
+- Considerar projeto de incendio
+- Quem não customiza perde espaço
