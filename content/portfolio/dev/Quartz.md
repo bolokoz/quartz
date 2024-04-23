@@ -20,3 +20,4 @@ Também já me perdi novamente. Parece que o ponto é se divertir procurando o b
 
 Vi um post de um brasileiro usando quartz e resolvi testar. Integra com o Obsidian que sempre quis usar mas nunca tinha dado certo por não poder usar no wsl do windows junto com git.
 
+

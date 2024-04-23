@@ -1,3 +1,0 @@
-# Koeroga
-
-Um projeto 
