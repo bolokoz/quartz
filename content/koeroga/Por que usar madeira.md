@@ -9,7 +9,12 @@
 
 ![[Por que usar madeira-15.png]]
 
-## Hoteis, apartamentos e centro para idosos
+# Por que usar aço
+
+
+## Porque usar alumínio
+
+## Exemplos madeira: Hoteis, apartamentos e centro para idosos
 
 ![[Por que usar madeira.png]]![[Por que usar madeira-1.png]]![[Por que usar madeira-2.png]]![[Por que usar madeira-3.png]]![[Por que usar madeira-4.png]]
 ---
