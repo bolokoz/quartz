@@ -1,5 +1,42 @@
 
+# Resumo
 
+## Planta
+
+## Custos
+
+### Materiais
+
+1. Base 1
+2. 
+
+### Mão de obra
+
+
+## Expectativas
+
+1. Verificar tempo de construção, desperdícios e previsão (contrabilidade)
+2. Custo total 
+	1. A mão de obra latina é realmente barata?
+3. Aprimoramentos
+4. Transportabilidade
+	1. Realmente vale a pena ser transportável?
+	2. Melhor montar no local?
+5. Usabilidade
+6. Retorno financeiro
+	1. Se custou R$ 60.000 e aluga-se por R$ 600 é um sucesso?
+	2. Realmente construir rápido é uma vantagem?
+
+---
+# Planta e inspiração
+![[Protótipo v1.png]]
+
+![[Protótipo v1-1.png | Cozinha]]
+
+![[Protótipo v1-2.png]]
+
+![[Protótipo v1-3.png]]
+![[Protótipo v1-4.png]]
 # Fundação
 ![[Protótipo-1.png]]
 
