@@ -1,3 +1,14 @@
+---
+title: Materias
+publish: true
+---
+
+
+# Siding (cladding)
+![[Materiais-5.png]]
+
+# Por que usar WOOD FRAME?
+
 1. Ecológico - armazenamento de CO2, construção sustentável sem desperdícios
 2. Reciclável - O módulo pode ser reaproveitado e movido ou desmontad
 3. Rapidez - diminua o tempo ocioso do terreno (expansões, mais andares)
@@ -8,7 +19,20 @@
 8. Investimento seguro - custos previsíveis e baixo risco (chuva, funcionários, materais, cronograma)
 
 ![[Por que usar madeira-15.png]]
+## Vigas
+![[Materiais-2.png]]
+## Fechamentos (OSB)
 
+![[Materiais-6.png]]
+## Membranas
+
+O ideal seria a membrana já estar na placa OSB para não precisar de mais uma etapa. Creio que para regiões quentes não precisamos vedar totalmenta a casa, posso estar errado.
+
+![[Materiais_20240508.png]]
+![[Materiais.png]]
+![[Materiais-4.png]]
+![[Materiais-3.png]]
+![[Materiais-1.png]]
 # Por que usar aço
 
 
