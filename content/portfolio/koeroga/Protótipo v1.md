@@ -7,8 +7,32 @@
 
 ### Materiais
 
-1. Base 1
-2. 
+1. Base 1 (4 x3,2 m = 12,8m²)
+	1. Estrutura - Conforme [[Protótipo-8.png]], **vigas 48x172** madeira tipo **C24** a cada 400mm para suportar vão de até 3,5m
+		1. Transversais **11 vigas de 3,2m** = 11xR$120 = R$1320
+		2. Longitudinais 2 vigas de 4m = 2xR$140 = R$280
+	2. Insulação e membranas
+		1. Tyvek 13,5m² = R$150
+	3. Fechamentos
+	4. Acabamento
+		1. Piso vinílico cada 4m² 3xR$300 = R$900
+		2. Argamassa
+		3. Adesivo
+		4. Primer
+		5. Rodapé (18m) = cada 2,4m 7xR$80 = R$560
+2. Parede 2 (4x2,4 = 9,6m²)
+	1. Estrutura sem aberturas (a cada 40cm)
+		1. Base e top 3x4m
+		2. Verticais 11x3m = 11xR$23 = R$250
+	2. Insulação e membranas
+		1. Lã de PET R$140 para 15m²
+		2. . Tyvek 13,5m² = R$150
+	3. Fechamentos
+		1. 3 placa OSB 11mm 3xR$210 = R$630
+	4. Acabamentos
+3. Tipo de madeira
+	1. Cambará (Vochysia Guianensis) é C40, então pode-se utilizar o tamanho comercial 5x15cm
+	2. Perobinha C40 também
 
 ### Mão de obra
 
@@ -37,6 +61,8 @@
 
 ![[Protótipo v1-3.png]]
 ![[Protótipo v1-4.png]]
+
+![[modulacao.png]]
 # Fundação
 ![[Protótipo-1.png]]
 
@@ -75,8 +101,14 @@ Uso em banheiros ou áreas molhadas
 ![[Protótipo-10.png]]
 ## Composição
 ![[Protótipo.png]]
+## Isolantes
 
 # Barreiras de vapor e ar 
+
+1. Fibra de vidro parece ser a mais utilizada mas não é tão boa em isolamento acustico
+2. Lã de rocha parece ser pesada
+3. Lã de PET: densidade 350g por metro linear 5cm espessura, 7kg/m³, 15m² pesa cerca de 11kg
+4. Espuma de poliuretano seria o ideal para evitar desperdícios e a melhor para um produção em linha
 
 ## Vapor
 
