@@ -118,6 +118,13 @@ A barreira não é uma barreira, é um retardador. Quando a humidade tenta ir pa
 
 ![[Protótipo-14.png]]
 
+![[Protótipo v1-6.png]]
+https://www.youtube.com/watch?v=TfrsbcOCTD4
+
+# Fachada
+
+![[Protótipo v1-5.png]] https://www.youtube.com/watch?v=Vpeq3lUCEiU
+
 # Deformações
 
 Estrutras de madeira sofrem deformações ao longo do tempo devido ao encolhimento devido a secagem da madeira e forças da construção.
