@@ -61,7 +61,7 @@
 
 ![[Protótipo v1-3.png]]
 ![[Protótipo v1-4.png]]
-
+![[Protótipo v1-9.png]]
 ![[modulacao.png]]
 # Fundação
 ![[Protótipo-1.png]]
@@ -124,7 +124,8 @@ https://www.youtube.com/watch?v=TfrsbcOCTD4
 # Fachada
 
 ![[Protótipo v1-5.png]] https://www.youtube.com/watch?v=Vpeq3lUCEiU
-
+![[Protótipo v1-7.png]]
+![[Protótipo v1-8.png]]
 # Deformações
 
 Estrutras de madeira sofrem deformações ao longo do tempo devido ao encolhimento devido a secagem da madeira e forças da construção.
