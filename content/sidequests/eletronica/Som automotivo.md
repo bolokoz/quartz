@@ -32,17 +32,20 @@ flowchart TB
 
         linkStyle default stroke:red
 
-        Alternador --> B:::positivo
+        %% Alternador --> B:::positivo
 
-        B(fa:fa-car-battery Bateria) --> fusebox --> M
+        B(fa:fa-car-battery Bateria)
 
-        B --> |800w = 60a| Ab{Amplificador Sub}
+        B --> Bloco
 
-        B --> |800w = 60a| Af
+        Bloco -----------> |800w = 60a - 5 metros - 4guage - 70 ampere| Ab{Amplificador Sub}
 
-        B --> C
+        Bloco --> |800w = 60a| Af
 
-  
+        Bloco --> C
+
+        C-.->Af
+
   
 
         %% Af ==> -
@@ -55,37 +58,52 @@ flowchart TB
 
   
   
-
-        M{Multimidia} -.-> C{CrossOver}
-
+  
+  
   
 
-        C-.->Af
-
-        Af{Amplificador frente} -.-> FD{Frente esquerda}
-
   
-
-        FD -.-> CFD{Crossover}
-
-        CFD -.-> TweeterD[(Tweeter Direita)]:::Falante
-
-        CFD -.-> PortaD[(Porta Direita)]:::Falante
-
-        FD -.-> CFE{Crossover}
-
-        CFE -.-> TweeterE[(Tweeter Esquerda)]:::Falante
-
-        CFE -.-> PortaE[(Porta Esquerda)]:::Falante
-
-        Af -.-> TE[(Porta traseira esquerda)]:::Falante
-
-        Af -.-> TD[(Porta traseira direita)]:::Falante
-
   
 
         C -.-> Ab
 
         Ab -.-> S[(Subwoofer)]:::Falante
+
+  
+  
+
+        M{Multimidia} -.-> C{CrossOver}
+
+  
+
+        Af{Amplificador frente}
+
+        Af -.......-> TE[(Porta traseira esquerda)]:::Falante
+
+        CFD
+
+        Af -..-> CFD
+
+        Af -.-> CFE
+
+        %% FD -.->
+
+        CFD{Crossover D}
+
+        CFD -.-> TweeterD[(Tweeter Direita)]:::Falante
+
+        CFD -.-> PortaD[(Porta Direita)]:::Falante
+
+        %% FD -.->
+
+        CFE{Crossover E}
+
+        CFE -.-> TweeterE[(Tweeter Esquerda)]:::Falante
+
+        CFE -.-> PortaE[(Porta Esquerda)]:::Falante
+
+  
+
+        Af -......-> TD[(Porta traseira direita)]:::Falante
 ```
 
